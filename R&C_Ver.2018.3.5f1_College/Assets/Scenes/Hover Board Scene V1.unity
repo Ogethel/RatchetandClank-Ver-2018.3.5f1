@@ -112,71 +112,63 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &147705163
+--- !u!1001 &217011822
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 100096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 100102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_Name
-      value: HoverBoardLevel_WhiteBox_01
+      value: HoverBoardLevel_WhiteBox_02
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 400096, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+    - target: {fileID: 400102, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2300084, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100016, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
-    - target: {fileID: 2300086, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100012, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 13fb4c17b8357ad409bb7b59b6ef8f75, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8bf2a7fe35622654ca116d9ec2e53d1b, type: 3}
 --- !u!1 &307242828
 GameObject:
   m_ObjectHideFlags: 0
