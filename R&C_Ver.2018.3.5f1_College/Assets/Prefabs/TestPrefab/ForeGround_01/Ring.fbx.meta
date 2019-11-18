@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 31d672c863ca6664aa52db19d3a4d668
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AntenaBase_low
+    100002: Antenas_low
+    100004: Antenas_low 1
+    100006: CenterDividingPiece_Highlight_low
+    100008: CenterDividingPiece_low
+    100010: FrontArchHighlight_Housing_low
+    100012: FrontArchHighlight_low
+    100014: GlowRingEmissivePiece_low
+    100016: GlowRings_Housing_low
+    100018: Midground_low
+    100020: //RootNode
+    100022: Ring_Body_Main_low
+    100024: SideDetail_low
+    100026: SideHighLight_Housing_low
+    100028: SideHighLight_low
+    100030: SideMiddleRing_low
+    100032: SideRing_OffsetMiddle_low
+    100034: TopMiddleBlock_low
+    100036: TopPiece_low
+    100038: transform44
+    100040: transform45
+    100042: transform46
+    100044: transform47
+    100046: transform48
+    100048: transform49
+    100050: transform50
+    100052: transform51
+    100054: transform52
+    100056: transform53
+    100058: transform54
+    100060: transform55
+    100062: transform56
+    100064: transform57
+    100066: transform58
+    100068: transform59
+    400000: AntenaBase_low
+    400002: Antenas_low
+    400004: Antenas_low 1
+    400006: CenterDividingPiece_Highlight_low
+    400008: CenterDividingPiece_low
+    400010: FrontArchHighlight_Housing_low
+    400012: FrontArchHighlight_low
+    400014: GlowRingEmissivePiece_low
+    400016: GlowRings_Housing_low
+    400018: Midground_low
+    400020: //RootNode
+    400022: Ring_Body_Main_low
+    400024: SideDetail_low
+    400026: SideHighLight_Housing_low
+    400028: SideHighLight_low
+    400030: SideMiddleRing_low
+    400032: SideRing_OffsetMiddle_low
+    400034: TopMiddleBlock_low
+    400036: TopPiece_low
+    400038: transform44
+    400040: transform45
+    400042: transform46
+    400044: transform47
+    400046: transform48
+    400048: transform49
+    400050: transform50
+    400052: transform51
+    400054: transform52
+    400056: transform53
+    400058: transform54
+    400060: transform55
+    400062: transform56
+    400064: transform57
+    400066: transform58
+    400068: transform59
+    2100000: blinn2
+    2300000: Antenas_low
+    3300000: Antenas_low
+    4300000: Antenas_low
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
