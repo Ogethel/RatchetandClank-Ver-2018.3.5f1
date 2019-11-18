@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 4a1ef4935658ca74cb7c05ecbc0cf0e8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AntenaBase
+    100002: Antenas
+    100004: CenterDividingPiece
+    100006: CenterDividingPiece_Highlight
+    100008: FrontArchHighlight
+    100010: FrontArchHighlight_Housing
+    100012: GlowRingEmissivePiece
+    100014: GlowRings_Housing
+    100016: Ring_Body_Main
+    100018: //RootNode
+    100020: SideDetail
+    100022: SideHighLight
+    100024: SideHighLight_Housing
+    100026: SideMiddleRing
+    100028: SideRing_OffsetMiddle
+    100030: TopMiddleBlock
+    100032: TopPiece
+    400000: AntenaBase
+    400002: Antenas
+    400004: CenterDividingPiece
+    400006: CenterDividingPiece_Highlight
+    400008: FrontArchHighlight
+    400010: FrontArchHighlight_Housing
+    400012: GlowRingEmissivePiece
+    400014: GlowRings_Housing
+    400016: Ring_Body_Main
+    400018: //RootNode
+    400020: SideDetail
+    400022: SideHighLight
+    400024: SideHighLight_Housing
+    400026: SideMiddleRing
+    400028: SideRing_OffsetMiddle
+    400030: TopMiddleBlock
+    400032: TopPiece
+    2100000: Blue_01
+    2100002: Stripe_01
+    2100004: Blue_GunMetal
+    2100006: Stripe_WhiteYellow
+    2300000: AntenaBase
+    2300002: Antenas
+    2300004: CenterDividingPiece
+    2300006: CenterDividingPiece_Highlight
+    2300008: FrontArchHighlight
+    2300010: FrontArchHighlight_Housing
+    2300012: GlowRingEmissivePiece
+    2300014: GlowRings_Housing
+    2300016: Ring_Body_Main
+    2300018: SideDetail
+    2300020: SideHighLight
+    2300022: SideHighLight_Housing
+    2300024: SideMiddleRing
+    2300026: SideRing_OffsetMiddle
+    2300028: TopMiddleBlock
+    2300030: TopPiece
+    3300000: AntenaBase
+    3300002: Antenas
+    3300004: CenterDividingPiece
+    3300006: CenterDividingPiece_Highlight
+    3300008: FrontArchHighlight
+    3300010: FrontArchHighlight_Housing
+    3300012: GlowRingEmissivePiece
+    3300014: GlowRings_Housing
+    3300016: Ring_Body_Main
+    3300018: SideDetail
+    3300020: SideHighLight
+    3300022: SideHighLight_Housing
+    3300024: SideMiddleRing
+    3300026: SideRing_OffsetMiddle
+    3300028: TopMiddleBlock
+    3300030: TopPiece
+    4300000: SideHighLight_Housing
+    4300002: SideHighLight
+    4300004: Ring_Body_Main
+    4300006: GlowRings_Housing
+    4300008: CenterDividingPiece
+    4300010: SideRing_OffsetMiddle
+    4300012: TopPiece
+    4300014: TopMiddleBlock
+    4300016: FrontArchHighlight_Housing
+    4300018: SideMiddleRing
+    4300020: SideDetail
+    4300022: AntenaBase
+    4300024: Antenas
+    4300026: GlowRingEmissivePiece
+    4300028: FrontArchHighlight
+    4300030: CenterDividingPiece_Highlight
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_01
+    second: {fileID: 2100000, guid: ff2a48603dad71a40bc562eae93a2705, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_GunMetal
+    second: {fileID: 2100000, guid: a910158a01ce9e847b29afecc42b6ebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stripe_01
+    second: {fileID: 2100000, guid: ee72261593d45a745bed121c0c3d7875, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stripe_WhiteYellow
+    second: {fileID: 2100000, guid: bca7f5392658cea4d859110aa62337bc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
