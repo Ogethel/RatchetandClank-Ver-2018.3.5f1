@@ -1359,13 +1359,13 @@ MonoBehaviour:
     value: 8
   maximumMarchDistance:
     overrideState: 1
-    value: 158.24
+    value: 79.81
   distanceFade:
     overrideState: 1
     value: 0.201
   vignette:
-    overrideState: 0
-    value: 0.467
+    overrideState: 1
+    value: 1
 --- !u!114 &114509385146931192
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1387,7 +1387,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1
+    value: 0.31
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
@@ -1405,7 +1405,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 1
+    value: 1.15
   directLightingStrength:
     overrideState: 0
     value: 0
@@ -1433,16 +1433,16 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 10.82
+    value: 3.13
   aperture:
     overrideState: 1
-    value: 8
+    value: 7.41
   focalLength:
     overrideState: 1
-    value: 50
+    value: 32
   kernelSize:
     overrideState: 1
-    value: 1
+    value: 0
 --- !u!114 &114939839057817368
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -1461,22 +1461,22 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 1.1
+    value: 0.57
   threshold:
     overrideState: 1
-    value: 0.82
+    value: 1.21
   softKnee:
     overrideState: 1
-    value: 0.46
+    value: 0
   clamp:
     overrideState: 1
-    value: 65382.41
+    value: 65270.79
   diffusion:
     overrideState: 1
     value: 10
   anamorphicRatio:
     overrideState: 1
-    value: 0
+    value: 0.21
   color:
     overrideState: 1
     value: {r: 1, g: 1, b: 1, a: 1}
