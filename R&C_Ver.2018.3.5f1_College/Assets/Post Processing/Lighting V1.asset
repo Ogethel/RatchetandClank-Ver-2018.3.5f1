@@ -1359,10 +1359,10 @@ MonoBehaviour:
     value: 8
   maximumMarchDistance:
     overrideState: 1
-    value: 79.81
+    value: 71.5
   distanceFade:
     overrideState: 1
-    value: 0.201
+    value: 0.277
   vignette:
     overrideState: 1
     value: 1
@@ -1387,13 +1387,13 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.31
+    value: 0.39
   color:
     overrideState: 1
     value: {r: 0, g: 0, b: 0, a: 1}
   ambientOnly:
     overrideState: 1
-    value: 1
+    value: 0
   noiseFilterTolerance:
     overrideState: 0
     value: 0
@@ -1405,7 +1405,7 @@ MonoBehaviour:
     value: -12
   thicknessModifier:
     overrideState: 1
-    value: 1.15
+    value: 1.06
   directLightingStrength:
     overrideState: 0
     value: 0
@@ -1461,13 +1461,13 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 0.57
+    value: 3.75
   threshold:
     overrideState: 1
-    value: 1.21
+    value: 2.56
   softKnee:
     overrideState: 1
-    value: 0
+    value: 0.06
   clamp:
     overrideState: 1
     value: 65270.79
@@ -1476,7 +1476,7 @@ MonoBehaviour:
     value: 10
   anamorphicRatio:
     overrideState: 1
-    value: 0.21
+    value: 1
   color:
     overrideState: 1
     value: {r: 1, g: 1, b: 1, a: 1}
